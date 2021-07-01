@@ -1,4 +1,18 @@
-# macOS
+# 推荐软件
+
+## 编程
+
+- JetBrains 全家桶
+- Visual Studio Code
+- Typora
+
+## 日常
+
+- iTerm2
+- Scroll Reverse
+- V2rayX
+
+# 环境配置
 
 ## Terminal Proxy
 
